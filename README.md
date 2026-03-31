@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi 👋, I'm Shivansh Jaiswal
 
-<!--
-**Shivansh1146/Shivansh1146** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Backend Developer | AI & ML Enthusiast
 
-Here are some ideas to get you started:
+I build real-world applications using Python, Java, and AI technologies.  
+Focused on backend systems, APIs, and LLM-based solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💻 Tech Stack
+- Languages: Python, Java
+- Backend: Flask, REST APIs
+- AI/ML: LLMs, Google Gemini API
+- Database: SQLite
+- Tools: Git, GitHub
+
+---
+
+## 🚀 Projects
+
+### 🧠 MedicSense AI
+Intelligent healthcare triage & appointment assistant.
+
+- Built backend using Flask
+- Integrated LLM for symptom analysis
+- Implemented authentication system
+
+🔗 Project Link: https://github.com/Shivansh1146/MedicSense-AI
+
+---
+
+## 📫 Connect with me
+- LinkedIn: https://www.linkedin.com/in/shivansh-jaiswal-9763a233b
+
+---
+
+## 🎯 Goal
+Aspiring to become a top-tier software engineer and build impactful AI-driven systems.
