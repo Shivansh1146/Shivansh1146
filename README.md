@@ -9,9 +9,8 @@ Focused on backend systems, APIs, and LLM-based solutions.
 
 ## 💻 Tech Stack
 - Languages: Python, Java
-- Backend: Flask, REST APIs
 - AI/ML: LLMs, Google Gemini API
-- Database: SQLite
+- Database: MySQL
 - Tools: Git, GitHub
 
 ---
