@@ -42,12 +42,27 @@
 
 ---
 
-### 🚀 Featured Projects
+### 🌟 Top Projects
 
-#### 🧠 MedicSense AI
-*Intelligent healthcare triage & appointment assistant.*
-- **Role:** Backend Developer
-- **Highlights:** Built the backend system using **Flask** to power intelligent healthcare triage, integrating advanced AI features for seamless appointment booking and medical assistance.
+<div align="center">
+  <a href="https://github.com/Shivansh1146/NMG-Forge2-Qualifier-">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shivansh1146&repo=NMG-Forge2-Qualifier-&theme=tokyonight&show_icons=true&bg_color=0D1117&hide_border=true" alt="NMG Forge2 Qualifier" />
+  </a>
+  <a href="https://github.com/Shivansh1146/MedicSenseAI">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shivansh1146&repo=MedicSenseAI&theme=tokyonight&show_icons=true&bg_color=0D1117&hide_border=true" alt="MedicSenseAI" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://github.com/Shivansh1146/Diabetes-Disease-Prediction">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shivansh1146&repo=Diabetes-Disease-Prediction&theme=tokyonight&show_icons=true&bg_color=0D1117&hide_border=true" alt="Diabetes Disease Prediction" />
+  </a>
+  <a href="https://github.com/Shivansh1146/Bankproject">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shivansh1146&repo=Bankproject&theme=tokyonight&show_icons=true&bg_color=0D1117&hide_border=true" alt="Bankproject" />
+  </a>
+</div>
 
 ---
 
