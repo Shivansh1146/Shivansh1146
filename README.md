@@ -1,4 +1,4 @@
-# 👋 Hello World! I'm Shivansh Jaiswal
+# Hi, I'm Shivansh Jaiswal 👋
 
 <div align="center">
   <a href="https://git.io/typing-svg">
