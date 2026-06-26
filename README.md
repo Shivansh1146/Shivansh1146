@@ -6,10 +6,16 @@
   </a>
 </div>
 
-<p align="center">
-  <strong>I build real-world applications using Python, Java, and AI technologies.</strong><br>
-  <em>Focused on backend systems, APIs, and LLM-based solutions. Open to internships & collaboration.</em>
-</p>
+<div align="center">
+  <p>
+    <strong>Welcome to my digital workspace! 🚀</strong><br>
+    I am a passionate developer who thrives at the intersection of <b>Backend Engineering</b> and <b>Artificial Intelligence</b>. Beyond writing clean code, I focus on designing scalable APIs, architecting robust systems, and integrating Large Language Models (LLMs) to build intelligent, real-world solutions.
+  </p>
+  <p>
+    🌱 Currently exploring advanced AI agent architectures and cloud deployments.<br>
+    🤝 Always excited to collaborate on open-source projects or innovative tech startups.
+  </p>
+</div>
 
 ---
 
