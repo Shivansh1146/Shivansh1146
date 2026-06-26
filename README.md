@@ -17,10 +17,6 @@
     🏆 <b>Recent Highlights:</b> Participated in Hackspace Hackathon (2025) and attended DevFest Noida<br>
     🤝 <b>Looking to collaborate:</b> Always excited to team up for open-source projects, hackathons, or startups!
   </p>
-  <br/>
-  <a href="https://github.com/Shivansh1146/Shivansh1146/blob/main/Shivansh_Jaiswal_Resume.pdf?raw=true">
-    <img src="https://img.shields.io/badge/📄_Download_Resume-2EA44F?style=for-the-badge" alt="Download Resume" />
-  </a>
 </div>
 
 ---
@@ -105,5 +101,8 @@
   </a>
   <a href="mailto:jaiswalshivansh122@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+  <a href="https://github.com/Shivansh1146/Shivansh1146/blob/main/Shivansh_Jaiswal_Resume.pdf?raw=true" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-2EA44F?style=for-the-badge" alt="Resume">
   </a>
 </div>
