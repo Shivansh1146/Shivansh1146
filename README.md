@@ -9,11 +9,13 @@
 <div align="center">
   <p>
     <strong>Welcome to my digital workspace! 🚀</strong><br>
-    I am a passionate developer who thrives at the intersection of <b>Backend Engineering</b> and <b>Artificial Intelligence</b>. Beyond writing clean code, I focus on designing scalable APIs, architecting robust systems, and integrating Large Language Models (LLMs) to build intelligent, real-world solutions.
+    I am a <b>BCA (AI & ML) student at Galgotias University</b> building intelligent solutions and robust backend architectures. With a strong foundation in Java and Python, I focus on designing scalable APIs, integrating Large Language Models (LLMs), and engineering secure database systems.
   </p>
   <p>
-    🌱 Currently exploring advanced AI agent architectures and cloud deployments.<br>
-    🤝 Always excited to collaborate on open-source projects or innovative tech startups.
+    🎓 <b>Education:</b> Bachelor of Computer Applications (AI & ML) @ Galgotias University<br>
+    🌱 <b>Currently exploring:</b> Advanced AI agent architectures and cloud deployments<br>
+    🏆 <b>Recent Highlights:</b> Participated in Hackspace Hackathon (2025) and attended DevFest Noida<br>
+    🤝 <b>Looking to collaborate:</b> Always excited to team up for open-source projects, hackathons, or startups!
   </p>
 </div>
 
