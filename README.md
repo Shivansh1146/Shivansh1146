@@ -16,18 +16,29 @@
 ### 💻 Tech Stack
 
 <div align="center">
-  <a href="https://skillicons.dev">
-    <!-- Using skillicons to generate clean, modern icons -->
-    <img src="https://skillicons.dev/icons?i=python,java,mysql,git,github,flask,gcp&perline=7" alt="Tech Stack Icons" />
-  </a>
+
+**💻 Languages**<br>
+![Java](https://img.shields.io/badge/Java-00599C?style=for-the-badge&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/Python-00599C?style=for-the-badge&logo=python&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-00599C?style=for-the-badge&logo=javascript&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-00599C?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-00599C?style=for-the-badge&logo=css3&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-00599C?style=for-the-badge&logo=sqlite&logoColor=white)
+
+**🌐 Web & Frameworks**<br>
+![Flask](https://img.shields.io/badge/Flask-2EA44F?style=for-the-badge&logo=flask&logoColor=white) ![Jinja2](https://img.shields.io/badge/Jinja2-2EA44F?style=for-the-badge&logo=jinja&logoColor=white) ![PWA](https://img.shields.io/badge/PWA-2EA44F?style=for-the-badge&logo=pwa&logoColor=white) ![REST API](https://img.shields.io/badge/REST%20API-2EA44F?style=for-the-badge&logo=postman&logoColor=white) ![Responsive Design](https://img.shields.io/badge/Responsive%20Design-2EA44F?style=for-the-badge&logo=css3&logoColor=white)
+
+**🤖 AI & ML**<br>
+![Google Gemini API](https://img.shields.io/badge/Google%20Gemini%20API-8A2BE2?style=for-the-badge&logo=googlegemini&logoColor=white) ![NLP](https://img.shields.io/badge/NLP-8A2BE2?style=for-the-badge) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-8A2BE2?style=for-the-badge&logo=scikitlearn&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-8A2BE2?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-8A2BE2?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-8A2BE2?style=for-the-badge)
+
+**🗄️ Databases**<br>
+![MySQL](https://img.shields.io/badge/MySQL-E34F26?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-E34F26?style=for-the-badge&logo=sqlite&logoColor=white) ![JDBC](https://img.shields.io/badge/JDBC-E34F26?style=for-the-badge&logo=java&logoColor=white) ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-E34F26?style=for-the-badge&logo=sqlalchemy&logoColor=white)
+
+**☁️ Cloud & Auth**<br>
+![AWS S3](https://img.shields.io/badge/AWS%20S3-FF9900?style=for-the-badge&logo=amazons3&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FF9900?style=for-the-badge&logo=firebase&logoColor=white) ![OAuth 2.0](https://img.shields.io/badge/OAuth%202.0-FF9900?style=for-the-badge&logo=oauth&logoColor=white) ![Twilio](https://img.shields.io/badge/Twilio-FF9900?style=for-the-badge&logo=twilio&logoColor=white) ![WhatsApp API](https://img.shields.io/badge/WhatsApp%20API-FF9900?style=for-the-badge&logo=whatsapp&logoColor=white)
+
+**🛠️ Tools**<br>
+![Git](https://img.shields.io/badge/Git-2F333A?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-2F333A?style=for-the-badge&logo=github&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-2F333A?style=for-the-badge&logo=intellijidea&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-2F333A?style=for-the-badge&logo=visualstudiocode&logoColor=white) ![PyCharm](https://img.shields.io/badge/PyCharm-2F333A?style=for-the-badge&logo=pycharm&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-2F333A?style=for-the-badge&logo=figma&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-2F333A?style=for-the-badge&logo=jupyter&logoColor=white) ![Google Colab](https://img.shields.io/badge/Google%20Colab-2F333A?style=for-the-badge&logo=googlecolab&logoColor=white) ![Maven](https://img.shields.io/badge/Maven-2F333A?style=for-the-badge&logo=apachemaven&logoColor=white)
+
+**🧠 CS Concepts**<br>
+![OOP](https://img.shields.io/badge/OOP-E10098?style=for-the-badge) ![DSA](https://img.shields.io/badge/DSA-E10098?style=for-the-badge) ![DBMS](https://img.shields.io/badge/DBMS-E10098?style=for-the-badge&logo=databricks&logoColor=white) ![OS](https://img.shields.io/badge/OS-E10098?style=for-the-badge&logo=linux&logoColor=white) ![RBAC](https://img.shields.io/badge/RBAC-E10098?style=for-the-badge) ![Software Engineering](https://img.shields.io/badge/Software%20Engineering-E10098?style=for-the-badge)
+
 </div>
-
-<br/>
-
-- **Languages:** Python, Java
-- **AI/ML:** LLMs, Google Gemini API
-- **Databases:** MySQL
-- **Tools & Frameworks:** Git, GitHub, Flask
 
 ---
 
