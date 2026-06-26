@@ -70,7 +70,7 @@
 
 <div align="center">
   <a href="https://github.com/Shivansh1146">
-    <img src="https://github-readme-stats.vercel.app/api?username=Shivansh1146&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Shivansh's GitHub stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Shivansh1146&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true&include_all_commits=true" alt="Shivansh's GitHub stats" />
   </a>
   <a href="https://github.com/Shivansh1146">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shivansh1146&theme=tokyonight&hide_border=true&background=0D1117" alt="Shivansh's GitHub Streak" />
