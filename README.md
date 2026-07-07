@@ -54,10 +54,10 @@
 
 <div align="center">
   <a href="https://github.com/Shivansh1146/NMG-Forge2-Qualifier-">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shivansh1146&repo=NMG-Forge2-Qualifier-&theme=tokyonight&show_icons=true&bg_color=0D1117&hide_border=true&v=1" alt="NMG Forge2 Qualifier" />
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Shivansh1146&repo=NMG-Forge2-Qualifier-&theme=tokyonight&show_icons=true&bg_color=0D1117&hide_border=true&v=1" alt="NMG Forge2 Qualifier" />
   </a>
   <a href="https://github.com/Shivansh1146/MedicSenseAI">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shivansh1146&repo=MedicSenseAI&theme=tokyonight&show_icons=true&bg_color=0D1117&hide_border=true&v=1" alt="MedicSenseAI" />
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Shivansh1146&repo=MedicSenseAI&theme=tokyonight&show_icons=true&bg_color=0D1117&hide_border=true&v=1" alt="MedicSenseAI" />
   </a>
 </div>
 
@@ -65,10 +65,10 @@
 
 <div align="center">
   <a href="https://github.com/Shivansh1146/Diabetes-Disease-Prediction">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shivansh1146&repo=Diabetes-Disease-Prediction&theme=tokyonight&show_icons=true&bg_color=0D1117&hide_border=true&v=1" alt="Diabetes Disease Prediction" />
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Shivansh1146&repo=Diabetes-Disease-Prediction&theme=tokyonight&show_icons=true&bg_color=0D1117&hide_border=true&v=1" alt="Diabetes Disease Prediction" />
   </a>
   <a href="https://github.com/Shivansh1146/Bankproject">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shivansh1146&repo=Bankproject&theme=tokyonight&show_icons=true&bg_color=0D1117&hide_border=true&v=1" alt="Bankproject" />
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Shivansh1146&repo=Bankproject&theme=tokyonight&show_icons=true&bg_color=0D1117&hide_border=true&v=1" alt="Bankproject" />
   </a>
 </div>
 
@@ -78,10 +78,10 @@
 
 <div align="center">
   <a href="https://github.com/Shivansh1146">
-    <img src="https://github-readme-stats.vercel.app/api?username=Shivansh1146&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true&include_all_commits=true&v=1" alt="Shivansh's GitHub stats" />
+    <img src="https://github-readme-stats-fast.vercel.app/api?username=Shivansh1146&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true&include_all_commits=true&v=1" alt="Shivansh's GitHub stats" />
   </a>
   <a href="https://github.com/Shivansh1146">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shivansh1146&theme=tokyonight&hide_border=true&background=0D1117&v=1" alt="Shivansh's GitHub Streak" />
+    <img src="https://streak-stats.demolab.com/?user=Shivansh1146&theme=tokyonight&hide_border=true&background=0D1117&v=1" alt="Shivansh's GitHub Streak" />
   </a>
 </div>
 
